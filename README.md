@@ -1,5 +1,5 @@
 # Floppa-Bot
-Discord bot for Floppa Memes
+Discord bot for Floppa Memes, it is a very simple discord bot lol.
 
 ### Setting up
 - Use `https://github.com/BossFriend/Floppa-Bot.git` 
@@ -13,3 +13,7 @@ client.login(process.env.token);
 ```js
 client.login('Your bot token);
 ```
+
+after that use `npm init` then `npm install discord.js` . 
+
+To run it use `node .`
