@@ -1,0 +1,14 @@
+{
+  "name": "forreal-floppa",
+  "version": "1.0.0",
+  "description": "Floppa is da best meme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BossFriend",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
