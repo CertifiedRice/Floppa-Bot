@@ -31,6 +31,12 @@ client.on('message', message => {
         'https://tenor.com/view/floppa-gif-20017643',
         'https://tenor.com/view/floppa-cubes-random-gif-20397171',
         'https://tenor.com/view/floppa-my-beloved-floppa-cat-heart-gif-20386309',
+	'https://i.gyazo.com/d2266dfb5ad2a1152c98243505643c74.png',
+	'https://i.gyazo.com/cd4a61e01d743cf078970f65a76660f3.png',
+	'https://i.gyazo.com/5ff1de9e0615b2b18357a289a7d0a31e.png',
+	'https://i.gyazo.com/1516a4ad73eb0a06ef177b8374d193b6.png',
+	'https://i.gyazo.com/db546d7761eb2281b78d90b868b1e292.png',
+	'https://tenor.com/view/floppa-cameron-caracal-angry-gif-20662685'
 
       ];
       let randomResponse = answers[Math.floor(Math.random() * answers.length)];
@@ -38,4 +44,5 @@ client.on('message', message => {
     }
   });
 
-client.login(process.env.token);
+client.login(token);
+
