@@ -1,7 +1,11 @@
-# Floppa-Bot
+Floppa
+====================
+
 Discord bot for Floppa Memes, it is a very simple discord bot lol.
 
-### Setting up
+Setting up
+------------
+
 - Use `https://github.com/BossFriend/Floppa-Bot.git` 
 - You can delete [Procfile](https://github.com/BossFriend/Floppa-Bot/blob/main/Procfile)
 - In [Index.js](https://github.com/BossFriend/Floppa-Bot/blob/main/index.js) you can replace `process.env.token` with your bot token
