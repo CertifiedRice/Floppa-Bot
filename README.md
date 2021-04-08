@@ -14,6 +14,6 @@ client.login(process.env.token);
 client.login('Your bot token);
 ```
 
-after that use `npm init` then `npm install discord.js` . 
+after that use `npm init` then `npm install discord.js` and `npm install -g typescript`. 
 
 To run it use `node .`
